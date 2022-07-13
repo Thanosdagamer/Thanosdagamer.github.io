@@ -10,4 +10,4 @@ silent aim!
 
 speed, gravity, and more!
 
-get the script here:
+get the script here: https://raw.githubusercontent.com/Thanosdagamer/robloxgui/main/loadstring
