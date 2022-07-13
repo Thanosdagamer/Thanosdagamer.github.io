@@ -25,3 +25,8 @@ support
 
 
 need any help with the script? create  a ticket in the discord or dm thanosdagamer#6469 !
+
+
+
+
+also yeah sorry i have no idea how to make links clickable lmao
