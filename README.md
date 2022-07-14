@@ -1,4 +1,4 @@
-thanos hub is  a free, universal, and stable roblox script made for roblox games!
+thanos hub is  a free, universal, and stable roblox script made for FPS games!
 
 
 
